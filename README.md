@@ -11,7 +11,7 @@ Things you may want to cover:
 5.2.3
 
 # Collaborators
-<a href="https://github.com/emmanuelkamala">Emmanuel Kamala</a>
+<a href="https://github.com/emmanuelkamala">Emmanuel Kamala</a><br>
 <a href="https://github.com/Zibilyonik">Onur Surmeli</a>
 
 # Live Version
